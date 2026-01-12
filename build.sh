@@ -1,1 +1,1 @@
-time go build main.go -o k8s-janitor
+time go build -o k8s-janitor main.go
